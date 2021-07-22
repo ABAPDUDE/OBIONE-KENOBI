@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000004</LENG>
+    <OUTPUTLEN>000004</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <DDTEXT>Design of the ships</DDTEXT>
+    <DOMMASTER>E</DOMMASTER>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>DS</DOMVALUE_L>
+     <DDTEXT>The Death Star: the Empire&apos;s battle station which can dest</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>EX</DOMVALUE_L>
+     <DDTEXT>The Executor: Super Star Destroyer:  served as Darth Vader&apos;s</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>IS</DOMVALUE_L>
+     <DDTEXT>The Star Destroyers are the Galactic Empire&apos;s assault ships</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>MF</DOMVALUE_L>
+     <DDTEXT>Milennium Falcon: a highly modified YT-1300F light freighter</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>SF</DOMVALUE_L>
+     <DDTEXT>Star Freigther: The transport&apos;s design is partly based on an</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>RT</DOMVALUE_L>
+     <DDTEXT>Rebel Transport: GR-75 medium transports</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+     <VALPOS>0007</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>HO</DOMVALUE_L>
+     <DDTEXT>Home One: Mon Calamari cruiser, Admiral Ackbar&apos;s flagship</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

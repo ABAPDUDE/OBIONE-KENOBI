@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>YSTARWARS_DESIGN</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>YSTARWARS_DESIGN</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Design of the ships</DDTEXT>
+    <REPTEXT>Star ship design</REPTEXT>
+    <SCRTEXT_S>design</SCRTEXT_S>
+    <SCRTEXT_M>Star ship design</SCRTEXT_M>
+    <SCRTEXT_L>Star ship design</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
