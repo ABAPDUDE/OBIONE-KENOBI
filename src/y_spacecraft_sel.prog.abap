@@ -24,10 +24,15 @@ SELECTION-SCREEN: BEGIN OF BLOCK bl1 WITH FRAME TITLE TEXT-001.
 
 SELECTION-SCREEN: END OF BLOCK bl1.
 
+SELECTION-SCREEN BEGIN OF BLOCK b2 WITH FRAME.
+  PARAMETERS p_sslist AS CHECKBOX USER-COMMAND flag.
+  PARAMETERS p_delete AS CHECKBOX USER-COMMAND flag.
+  PARAMETERS p_create AS CHECKBOX USER-COMMAND flag.
+SELECTION-SCREEN END OF BLOCK b2.
+
 AT SELECTION-SCREEN.
 
   DATA lo_domain_text TYPE REF TO lcl_domain_desc .
-*  DATA lv_description  TYPE ddtext .
 
   lo_domain_text = NEW lcl_domain_desc( ).
   DATA(lv_description01) = lo_domain_text->get_domain_descr( p_episod ).

@@ -26,7 +26,7 @@
     <item>
      <ID>I</ID>
      <KEY>003</KEY>
-     <ENTRY>Planet - Origin</ENTRY>
+     <ENTRY>Planet or Origin</ENTRY>
      <LENGTH>17</LENGTH>
     </item>
     <item>
@@ -39,6 +39,18 @@
      <ID>R</ID>
      <ENTRY>Ships during the Galactic Republic</ENTRY>
      <LENGTH>34</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_CREATE</KEY>
+     <ENTRY>Create new Starship entries</ENTRY>
+     <LENGTH>35</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_DELETE</KEY>
+     <ENTRY>Delete Starship table</ENTRY>
+     <LENGTH>35</LENGTH>
     </item>
     <item>
      <ID>S</ID>
@@ -73,6 +85,12 @@
      <ENTRY>.</ENTRY>
      <LENGTH>23</LENGTH>
      <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_SSLIST</KEY>
+     <ENTRY>Show list selected Starships</ENTRY>
+     <LENGTH>36</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
